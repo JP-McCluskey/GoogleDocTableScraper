@@ -4,6 +4,9 @@ This was a project created for DataAnnotation platform's online assessment.
 
 A React application that scrapes tables from Google Docs and visualizes the data in both tabular and coordinate plane formats.
 
+<img width="876" alt="Screenshot 2025-02-23 at 4 36 39 PM" src="https://github.com/user-attachments/assets/c8c1ab83-9670-43e6-b4d2-5a7b26132f41" />
+<img width="814" alt="Screenshot 2025-02-23 at 3 13 21 PM" src="https://github.com/user-attachments/assets/c9ee3384-6c3b-4cc0-a006-424716d3c7e9" />
+
 ## Features
 
 - Extract tables from public Google Docs
